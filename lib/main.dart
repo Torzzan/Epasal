@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: "E-Pasal",
       theme: ThemeData(
-        primarySwatch: Colors.green,
+        primarySwatch: Colors.teal,
       ),
       home: ProductOverViewScreen(),
     );
